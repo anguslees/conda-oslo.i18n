@@ -1,0 +1,4 @@
+package: oslo.i18n
+script:
+  - conda build .
+build_targets: conda
